@@ -1,0 +1,35 @@
+{
+    "campaign_review_header":"Revisar campaña",
+    "campaign_review_text":"Pueses añadir notas seleccionando en un campo. Las notas indican al promotor de la campaña que debe corregir para que la campaña pueda ser aprobada.",
+    "campaign_review_notes":"Notas",
+    "campaign_review_website":"Enlaces de interés",
+    "campaign_review_contact":"Contacto",
+    "campaign_review_campaign":"Campaña",
+    "campaign_review_faq":"FAQ",
+    "campaign_review_desc":"Esta campaña no tiene una descripción",
+    "campaign_review_disapprove":"Rechazar campaña",
+    "campaign_review_approve":"Aprobar campaña",
+    "campaign_review_projectnote":" Notas del proyecto",
+    "campaign_review_save":"Guardar nota",
+    "campaign_review_cancel":"Cancelar",
+    "PledgeSection_KeepAll":"Recaudar todo",
+    "PledgeSection_AllNothing":"Recaudar si hay éxito",
+    "PledgeSection_raiseMode":"Conseguir mas",
+    "funding_goal":"Objetivo de recaudación",
+    "PledgeSection_backers":"Patrocinador",
+    "PledgeSection_raisedOf":"Conseguido de",
+    "PledgeSection_goal":"Objetivo",
+    "PledgeSection_funded":"Contribuido de",
+    "PledgeSection_Contribute":"Contribuye",
+    "PledgeSection_Contribute_withMinimum":"con un mínimo de ",
+    "PledgeSection_Contribute_Rewards":"Contribuye para conseguir la recompensa",
+    "PledgeSection_Or":"O",
+    "PledgeSection_SoldOut":"Agotadas",
+    "PledgeSection_Nobackers":"No hay promotores",
+    "PledgeSection_Limitedrewards":"Recompensa limitadas",
+    "PledgeSection_LeftOf":"Quedan de",
+    "PledgeSection_EstimatedShip":"Fecha estimada de entrega"
+
+
+
+}

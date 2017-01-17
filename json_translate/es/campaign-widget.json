@@ -1,0 +1,9 @@
+{
+  "campaign_widget_widget_settings_title": "Ajustes del widget de campaña",
+  "campaign_widget_widget_settings_notes": "Aquí puedes configurar el tema para tu widget de campaña.",
+  "campaign_widget_theme_color": "Color del tema",
+  "campaign_widget_font_color": "Color de la fuente",
+  "campaign_widget_font_family": "Famila de la fuente",
+  "campaign_widget_widget_code_title": "Código del widget",
+  "campaign_widget_widget_code_instruction": "Puedes copiar y pegar este código para mostrar tu campaña en tu página web. Si lo prefieres, puedes utilizar la URL de la campaña si no deseas servirla en tu página web."
+}

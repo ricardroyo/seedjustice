@@ -1,0 +1,24 @@
+{
+	
+	"explore_search_campaignname": "Nombre de la campaña",
+	"explore_search_byname": "Buscar por nombre",
+	"explore_search_categories": "Categorias",
+	"explore_search_categories_all": "Todas la categorias",
+	"explore_search_location": "Localización",
+	"explore_search_reset": "Resetear",
+	"explore_search_sortby": "Ordernar por",
+	"explore_search_featured": "Destacadas",
+	"explore_search_newest": "Nuevas",
+	"explore_search_oldest": "Más antiguas",
+	"explore_search_most_funded":"Que mas han recaudado",
+	"explore_search_least_funded":"Que menos han recaudado",
+	"explore_search_most_funded_percent":"Con mayor porcentaje de recaudación",
+	"explore_search_least_funded_percent":"Con menor porcentaje de recaudación",
+	"explore_search_by": "Por",
+	"explore_pledged": "Comprometidas",
+	"explore_funded": "Recaudado",
+	"explore_closed":"Finalizadas",
+	"explore_search_location_placeholder": "Introduce una localización",
+	"explore_at":"en"
+
+}

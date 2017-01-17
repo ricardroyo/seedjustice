@@ -1,0 +1,27 @@
+{
+	"navbar_welcome": "Bienvenido,",
+	"navbar_dashBoard": "Opciones",
+	"navbar_adminstrator": "Administración ",
+	"navbar_mytitle": "Mis Campañas",
+	"navbar_mycontribution": "Mis Contribuciones",
+	"navbar_mymessage": "Mensajes",
+	"navbar_myprofile": "Perfil",
+	"navbar_profilesetting": "Preferencias de perfil",
+	"navbar_paymentsetting": "Preferencias de pago",
+	"navbar_logout": "Salir",
+	"navbar_signup_login": "Alta/Entrar",
+	"navbar_search": "Buscar campaña...",
+
+	"page404_error_message": "Error. La página no se ha encontrado.",
+	"page404_error_message2": "Los sentimos. Parece que la página no existe.",
+	"page404_error_message3": "¿Qué quieres hacer?",
+	"page404_goback": "Volver",
+	"page404_gotohome": "Ir a la página de inicio",
+
+	"campaignsave_savebutton": 		"Guardar cambios",
+	"campaignsave_previousbutton":  "Paso anterior",
+	"campaignsave_nextbutton": 		"Siguiente paso",
+	"campaignsave_save_success": 	"Los cambios se han guardado",
+	"campaignsave_save_error": "Error",
+	"campaignsave_save_invalid_error": "Por favor rellena los campos obligatorios"
+}

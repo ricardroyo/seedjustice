@@ -1,0 +1,9 @@
+{
+  "campaign_widget_widget_settings_title": "Campaign Widget Settings",
+  "campaign_widget_widget_settings_notes": "This is where you can customize the theme of your campaign widget.",
+  "campaign_widget_theme_color": "Theme Color",
+  "campaign_widget_font_color": "Font Color",
+  "campaign_widget_font_family": "Font Family",
+  "campaign_widget_widget_code_title": "Campaign Widget Code",
+  "campaign_widget_widget_code_instruction": "Copy and paste (Ctrl + C for Windows and Cmd + C for Mac) the HTML code snippet below to your website page so that your campaign can appear there. Alternatively use the provided direct URL if you don't want the campaign hosted on your own website page."
+}

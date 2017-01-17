@@ -1,0 +1,10 @@
+{
+
+	"campaign_step_basic": "Básico",
+	"campaign_step_detail": "Detalles",
+	"campaign_step_reward": "Recompensa",
+	"campaign_step_profile": "Perfil",
+	"campaign_step_funding": "Financiación",
+	"campaign_step_preview": "Previsualizar",
+	"campaign_step_editing_message":"Esta campaña esta siendo editada. Por favor envia la campaña cuando hayas terminado para que la podamos revisar."
+}
