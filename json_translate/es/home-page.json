@@ -1,10 +1,10 @@
 {
-    "index_continue_project": "Continuar Proyecto",
-    "index_by": "De",
-    "index_pledged": "Conseguido",
-    "index_funded": "Financiado",
-    "index_new": "Nuevo ",
+    "index_continue_project": "Continuar el proyecto",
+    "index_by": "Por",
+    "index_pledged": "Con garantia",
+    "index_funded": "Financiadas",
+    "index_new": "Nuevas",
     "index_view_more": "Ver más campañas",
-    "index_at":"en",
-    "index_partnership_title":"Colaboraciones"
+    "index_at": "en",
+    "index_partnership_title": "Colaboradores"
 }

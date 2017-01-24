@@ -1,9 +1,8 @@
 {
-	
-	"profile_website":"Websites",
-	"profile_contact":"Contact",
-	"profile_campaign_created":"Campaigns Created ",
-	"profile_campaign_backed":"Campaigns Backed",
-	"profile_no_campaign":"No Campaign",
-	"profile_no_backer":"This user hasn’t backed any campaigns yet"
+    "profile_website": "Sitios web",
+    "profile_contact": "Contacto",
+    "profile_campaign_created": "Campañas creadas",
+    "profile_campaign_backed": "Campañas respaldadas",
+    "profile_no_campaign": "Sin campaña",
+    "profile_no_backer": "Este usuario no ha colaborado con ninguna campaña todavía."
 }

@@ -1,13 +1,13 @@
 {
-	"confirm_email_confirm_text": "Confirmar email",
-	"confirm_email_new_email": "New email",
-	"confirm_email_new_email_message": "Por favor introduce un email válido.",
-	"confirm_email_new_email_confirm": "Confirmar email",
-	"confirm_email_new_email_error": "Los emails no son iguales",
-	"confirm_email_reset_email": " Resetear email",
-	"confirm_email_email_invalid_expired_error": "El enlace para resetear el correo ha expirado.",
-	"confirm_email_email_sent": "El email se ha reseteado correctamente",
-	"confirm_email_email_please_login": "Por favor entra primero",
-	"confirm_email_changed_successfully": "Has cambiado tu email correctamente",
-	"confirm_email_modal_home": "Volver a la página de inicio"
+    "confirm_email_confirm_text": "Confirmar correo electrónico",
+    "confirm_email_new_email": "Nuevo Correo Electrónico",
+    "confirm_email_new_email_message": "Por favor introduce una dirección de correo electrónico válida.",
+    "confirm_email_new_email_confirm": "Confirmar correo electrónico",
+    "confirm_email_new_email_error": "Los correos no coinciden",
+    "confirm_email_reset_email": "Resetear correo electrónico",
+    "confirm_email_email_invalid_expired_error": "El enlace para resetear el correo electrónico ha caducado",
+    "confirm_email_email_sent": "El correo electrónico se ha restablecido correctamente.",
+    "confirm_email_email_please_login": "Por favor, inicia sesión primero",
+    "confirm_email_changed_successfully": "Has cambiado tu correo electrónico correctamente",
+    "confirm_email_modal_home": "Volver a la página de inicio"
 }

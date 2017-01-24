@@ -1,161 +1,112 @@
 {
-  "translation": {
-
-    "Type something": "Type something",
-
-
-    "Bold": "Bold",
-    "Italic": "Italic",
-    "Underline": "Underline",
-    "Strikethrough": "Strikethrough",
-
-
-    "Insert": "Insert",
-    "Delete": "Delete",
-    "Cancel": "Cancel",
-    "OK": "OK",
-    "Back": "Back",
-    "Remove": "Remove",
-    "More": "More",
-    "Update": "Update",
-    "Style": "Style",
-
-
-    "Font Family": "Font Family",
-    "Font Size": "Font Size",
-
-
-    "Colors": "Colours",
-    "Background": "Background",
-    "Text": "Text",
-
-
-    "Paragraph Format": "Paragraph Format",
-    "Normal": "Normal",
-    "Code": "Code",
-    "Heading 1": "Heading 1",
-    "Heading 2": "Heading 2",
-    "Heading 3": "Heading 3",
-    "Heading 4": "Heading 4",
-
-
-    "Paragraph Style": "Paragraph Style",
-    "Inline Style": "Inline Style",
-
-
-    "Align": "Align",
-    "Align Left": "Align Left",
-    "Align Center": "Align Centre",
-    "Align Right": "Alight Right",
-    "Align Justify": "Align Justify",
-    "None": "None",
-
-
-    "Ordered List": "Ordered List",
-    "Unordered List": "Unordered List",
-
-
-    "Decrease Indent": "Decrease Indent",
-    "Increase Indent": "Increase Indent",
-
-
-    "Insert Link": "Insert Link",
-    "Open in new tab": "Open in new tab",
-    "Open Link": "Open Link",
-    "Edit Link": "Edit Link",
-    "Unlink": "Unlink",
-    "Choose Link": "Choose Link",
-
-
-    "Insert Image": "Insert Image",
-    "Upload Image": "Upload Image",
-    "By URL": "By URL",
-    "Browse": "Browse",
-    "Drop image": "Drop image",
-    "or click": "or click",
-    "Manage Images": "Manage Images",
-    "Loading": "Loading",
-    "Deleting": "Deleting",
-    "Tags": "Tags",
-    "Are you sure? Image will be deleted.": "Are you sure? Image will be deleted.",
-    "Replace": "Replace",
-    "Uploading": "Uploading",
-    "Loading image": "Loading image",
-    "Display": "Display",
-    "Inline": "Inline",
-    "Break Text": "Break Text",
-    "Alternate Text": "Alternate Text",
-    "Change Size": "Change Size",
-    "Width": "Width",
-    "Height": "Height",
-    "Something went wrong. Please try again.": "Something went wrong. Please try again.",
-
-
-    "Insert Video": "Insert Video",
-    "Embedded Code": "Embedded Code",
-
-
-    "Insert Table": "Insert Table",
-    "Header": "Header",
-    "Row": "Row",
-    "Insert row above": "Insert row above",
-    "Insert row below": "Insert row below",
-    "Delete row": "Delete row",
-    "Column": "Column",
-    "Insert column before": "Insert column before",
-    "Insert column after": "Insert column after",
-    "Delete column": "Delete column",
-    "Cell": "Cell",
-    "Merge cells": "Merge cells",
-    "Horizontal split": "Horizontal split",
-    "Vertical split": "Vertical split",
-    "Cell Background": "Cell Background",
-    "Vertical Align": "Vertical Align",
-    "Top": "Top",
-    "Middle": "Middle",
-    "Bottom": "Bottom",
-    "Align Top": "Align Top",
-    "Align Middle": "Align Middle",
-    "Align Bottom": "Align Bottom",
-    "Cell Style": "Cell Style",
-
-
-    "Upload File": "Upload File",
-    "Drop file": "Drop file",
-
-    
-    "Emoticons": "Emoticons",
-
-    
-    "Break": "Break",
-
-    
-    "Subscript": "Subscript",
-    "Superscript": "Superscript",
-
-    
-    "Fullscreen": "Fullscreen",
-
-    
-    "Insert Horizontal Line": "Insert Horizontal Line",
-
-    
-    "Clear Formatting": "Cell Formatting",
-
-    
-    "Undo": "Undo",
-    "Redo": "Redo",
-
-    
-    "Select All": "Select All",
-
-    
-    "Code View": "Code View",
-
-    
-    "Quote": "Quote",
-    "Increase": "Increase",
-    "Decrease": "Decrease"
-  },
-  "direction": "ltr"
+    "translation": {
+        "Type something": "Escribe algo",
+        "Bold": "Negrita",
+        "Italic": "Cursiva",
+        "Underline": "Subrayar",
+        "Strikethrough": "Tachado",
+        "Insert": "Insertar",
+        "Delete": "Borrar",
+        "Cancel": "Cancelar",
+        "OK": "De acuerdo",
+        "Back": "Volver",
+        "Remove": "Quitar",
+        "More": "Más",
+        "Update": "Actualizar",
+        "Style": "Estilo",
+        "Font Family": "Fuente",
+        "Font Size": "Tamaño de fuente",
+        "Colors": "Colores",
+        "Background": "Fondo",
+        "Text": "Texto",
+        "Paragraph Format": "Formato del párrafo",
+        "Normal": "Normal",
+        "Code": "Código",
+        "Heading 1": "Cabecera 1",
+        "Heading 2": "Cabecera 2",
+        "Heading 3": "Cabecera 3",
+        "Heading 4": "Cabecera 4",
+        "Paragraph Style": "Estilo de párrafo",
+        "Inline Style": "Estilo en línea",
+        "Align": "Alinear",
+        "Align Left": "Alinear izquierda",
+        "Align Center": "Alinear centro",
+        "Align Right": "Aliniar derecha",
+        "Align Justify": "Alinear Justificar",
+        "None": "Ninguna",
+        "Ordered List": "Lista ordenada",
+        "Unordered List": "Lista desordenada",
+        "Decrease Indent": "Reducir sangría",
+        "Increase Indent": "Aumentar Sangría",
+        "Insert Link": "Insertar Enlace",
+        "Open in new tab": "Abrir en una pestaña nueva",
+        "Open Link": "Abrir Enlace",
+        "Edit Link": "Editar enlace",
+        "Unlink": "Eliminar enlace",
+        "Choose Link": "Elegir enlace",
+        "Insert Image": "Insertar imagen",
+        "Upload Image": "Cargar imagen",
+        "By URL": "Por URL",
+        "Browse": "Navegar",
+        "Drop image": "Descartar imagen",
+        "or click": "o haz clic en",
+        "Manage Images": "Gestionar imágenes",
+        "Loading": "Cargando",
+        "Deleting": "Eliminando",
+        "Tags": "Etiquetas",
+        "Are you sure? Image will be deleted.": "¿Estás seguro? La imagen será eliminada.",
+        "Replace": "Reemplazar",
+        "Uploading": "Subiendo",
+        "Loading image": "Cargando imagen",
+        "Display": "Mostrar",
+        "Inline": "En línea",
+        "Break Text": "Romper Texto",
+        "Alternate Text": "Texto alternativo",
+        "Change Size": "Cambiar tamaño",
+        "Width": "Anchura",
+        "Height": "Altura",
+        "Something went wrong. Please try again.": "Algo salió mal. Por favor, inténtalo de nuevo.",
+        "Insert Video": "Insertar vídeo",
+        "Embedded Code": "Código incrustado",
+        "Insert Table": "Insertar Tabla",
+        "Header": "Encabezado",
+        "Row": "Fila",
+        "Insert row above": "Insertar fila encima de",
+        "Insert row below": "Insertar fila debajo de",
+        "Delete row": "Eliminar fila",
+        "Column": "Columna",
+        "Insert column before": "Insertar columna antes de",
+        "Insert column after": "Insertar columna después de",
+        "Delete column": "Eliminar columna",
+        "Cell": "Celda",
+        "Merge cells": "Combinar celdas",
+        "Horizontal split": "Separación horizontal",
+        "Vertical split": "Separación vertical",
+        "Cell Background": "Fondo de la celda",
+        "Vertical Align": "Alineación vertical",
+        "Top": "Arriba",
+        "Middle": "Medio",
+        "Bottom": "Fondo",
+        "Align Top": "Alinear arriba",
+        "Align Middle": "Alinear el centro",
+        "Align Bottom": "Alinear abajo",
+        "Cell Style": "Estilo de la celda",
+        "Upload File": "Subir archivo",
+        "Drop file": "Descartar archivo",
+        "Emoticons": "Emoticones",
+        "Break": "Salto",
+        "Subscript": "Subíndice",
+        "Superscript": "Superíndice",
+        "Fullscreen": "Pantalla completa",
+        "Insert Horizontal Line": "Insertar línea horizontal",
+        "Clear Formatting": "Formateo de celdas",
+        "Undo": "Deshacer",
+        "Redo": "Rehacer",
+        "Select All": "Seleccionar todo",
+        "Code View": "Vista de Código",
+        "Quote": "Cita",
+        "Increase": "Incrementar",
+        "Decrease": "Disminuir"
+    },
+    "direction": "ltr"
 }

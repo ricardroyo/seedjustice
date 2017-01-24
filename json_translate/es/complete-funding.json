@@ -1,16 +1,15 @@
 {
-
-	"complete_funding_main_message": "Your Campaign Funding",
-	"complete_funding_main_text": "Please select existing Stripe account or connect a new Stripe account to be used for receiving campaign funds.",
-	"complete_funding_main_text2": "Once done please click either the 'Save Changes' button to save your changes or the 'Next Step' button to save your changes and continue.",
-	"complete_funding_fundingdetails": "Campaign Funding Details",
-	"complete_funding_stripe_connection": "Stripe Connection",
-	"complete_funding_stripe_message": "Choose Existing Stripe Account/Connection:",
-	"complete_funding_stripe_errormessage": "Please select an account to proceed",
-	"complete_funding_stripe_message1": "Or Create a New Stripe Account/Connection:",
-	"complete_funding_stripe_message2": "Create a New Stripe Account/Connection:",
-	"complete_funding_stripe_button": "Connect with Stripe",
-	"complete_funding_stripe_default":"Select an account",
-	"complete_funding_stripe_direct_transaction_enabled":"Direct Transaction Mode is on. Only admin can view this page.",
-	"complete_funding_stripe_connect_notes": "Connect your Stripe account to this campaign in order to receive your payments. <a href='https://www.thrinacia.com/blog/post/creating-a-campaign-and-connecting-your-stripe-account' target='_blank'>Click here</a> for more information about connecting your stripe account."
+    "complete_funding_main_message": "Financiación de tu campaña",
+    "complete_funding_main_text": "Selecciona una cuenta Stripe existente o conecte una nueva cuenta Stripe para utilizarla para recibir fondos de la campaña.",
+    "complete_funding_main_text2": "Una vez hecho esto, haga clic en el botón \"Guardar cambios\" para guardar los cambios o en el botón \"Siguiente paso\" para guardar los cambios y continuar.",
+    "complete_funding_fundingdetails": "Detalles de la financiación de la campaña",
+    "complete_funding_stripe_connection": "Conexión a Stripe",
+    "complete_funding_stripe_message": "Seleccione cuenta \/ conexión Stripe existente:",
+    "complete_funding_stripe_errormessage": "Por favor, selecciona una cuenta para proceder",
+    "complete_funding_stripe_message1": "O crea una nueva cuenta \/ conexión Stripe:",
+    "complete_funding_stripe_message2": "Crear una nueva cuenta \/ conexión Stripe:",
+    "complete_funding_stripe_button": "Conectar con Stripe",
+    "complete_funding_stripe_default": "Seleccione una cuenta",
+    "complete_funding_stripe_direct_transaction_enabled": "El modo de transacción directa está activado. Sólo el administrador puede ver esta página.",
+    "complete_funding_stripe_connect_notes": "Conecte su cuenta de Stripe a esta campaña para recibir sus pagos. <a href='https:\/\/www.thrinacia.com\/blog\/post\/creating-a-campaign-and-connecting-your-stripe-account' target='_blank'> Haga clic aquí <\/a> para obtener más información Acerca de cómo conectar su cuenta de franjas."
 }
